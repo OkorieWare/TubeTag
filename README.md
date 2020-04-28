@@ -1,7 +1,7 @@
 # TubeTag
 
-#### OkorieWare ™ TubeTag
-#### Copyright © 2018 OkorieWare ™
+**OkorieWare ™ TubeTag**
+**Copyright © 2018 OkorieWare ™**
 
 OkorieWare ™ TubeTag is a media tagging application, to accompany TubeMate.
 
