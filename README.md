@@ -1,9 +1,9 @@
 # TubeTag
 
-OkorieWare ™ TubeTag is a media tagging application, to accompany TubeMate.
+OkorieWare ™ TubeTag is a media tagging application, to accompany [TubeMate](http://tubemate.net).
 
 
- - Tested with [TubeMate](http://tubemate.net) 3.2.6
+ - Tested with TubeMate 3.2.6
  - Tested on Android 8.1.0
 
 Compatible with Android 5.1.1 and up
