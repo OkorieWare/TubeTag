@@ -6,6 +6,8 @@
 
 Compatible with Android 5.1.1 and up
 
+Copyright © 2018 OkorieWare ™
+
 ## Screenshot
 
 ![Alt text](/screenshot/Screenshot-A.png?raw=true)
