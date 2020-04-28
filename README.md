@@ -5,3 +5,13 @@
  - Tested on Android 8.1.0
 
 Compatible with Android 5.1.1 and up
+
+## Screenshot
+
+![Alt text](/screenshot/Screenshot-A.png?raw=true)
+![Alt text](/screenshot/Screenshot-B.png?raw=true)
+![Alt text](/screenshot/Screenshot-C.png?raw=true)
+![Alt text](/screenshot/Screenshot-D.png?raw=true)
+![Alt text](/screenshot/Screenshot-E.png?raw=true)
+![Alt text](/screenshot/Screenshot-F.png?raw=true)
+![Alt text](/screenshot/Screenshot-G.png?raw=true)
