@@ -11,10 +11,10 @@ Copyright © 2018 OkorieWare ™
 
 ## Screenshot
 
-![Alt text](/screenshot/Screenshot-A.png?raw=true)
-![Alt text](/screenshot/Screenshot-B.png?raw=true)
-![Alt text](/screenshot/Screenshot-C.png?raw=true)
-![Alt text](/screenshot/Screenshot-D.png?raw=true)
-![Alt text](/screenshot/Screenshot-E.png?raw=true)
-![Alt text](/screenshot/Screenshot-F.png?raw=true)
-![Alt text](/screenshot/Screenshot-G.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-a.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-b.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-c.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-d.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-e.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-f.png?raw=true)
+![Alt text](/screenshot/tubetag-screenshot-g.png?raw=true)
