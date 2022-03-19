@@ -9,6 +9,10 @@ Compatible with Android 5.1.1 and up
 
 Copyright © 2018 OkorieWare ™
 
+[Latest Release](https://github.com/OkorieWare/TubeTag/releases/tag/v1.2.15)
+
+[Homepage](https://okorieware.ga/tubetag/)
+
 ## Screenshot
 
 ![Alt text](/screenshot/tubetag-screenshot-a.png?raw=true)
