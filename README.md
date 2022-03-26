@@ -9,7 +9,7 @@ Copyright © 2018 OkorieWare ™
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/OkorieWare/TubeTag)](https://github.com/OkorieWare/TubeTag/releases)
 
-[![Homepage](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-brightgreen)](https://okorieware.ga/tubetag/)
+[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-brightgreen)](https://okorieware.ga/tubetag/)
 
 ## Screenshot
 
