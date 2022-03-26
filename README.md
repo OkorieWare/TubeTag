@@ -7,7 +7,7 @@ OkorieWare ™ TubeTag is a media tagging application, to accompany [TubeMate](h
 
 Copyright © 2018 OkorieWare ™
 
-[Latest Release](https://github.com/OkorieWare/TubeTag/releases/tag/v1.2.15)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/OkorieWare/TubeTag)
 
 [Homepage](https://okorieware.ga/tubetag/)
 
