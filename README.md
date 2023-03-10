@@ -13,7 +13,6 @@ Copyright © 2018 OkorieWare ™
 
 ## Screenshot
 
-![Alt text](/screenshot/tubetag-screenshot-a.png?raw=true)
 ![Alt text](/screenshot/tubetag-screenshot-e.png?raw=true)
 ![Alt text](/screenshot/tubetag-screenshot-f.png?raw=true)
 ![Alt text](/screenshot/tubetag-screenshot-g.png?raw=true)
